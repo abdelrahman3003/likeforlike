@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: "My Appp",
+      title: "My Appss",
       locale: Locale('ar'),
       supportedLocales: [
         const Locale('ar'),
